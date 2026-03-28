@@ -1,44 +1,53 @@
-📘 Math Game (C# Console App)
+## 📘 Math Game (C# Console App)
 
-A simple and interactive console-based math game built with C#.
-It allows users to practice basic arithmetic operations with multiple game modes and a time-based difficulty system.
+A simple console-based math game built in C# to practice basic arithmetic operations. The game includes multiple modes, score tracking, and a time-based difficulty system.
 
-🎮 Features
-➕ Addition mode (5 questions)
-➖ Subtraction mode (5 questions)
-✖️ Multiplication mode (5 questions)
-➗ Division mode (5 questions)
-🎲 Random mode (5 mixed questions)
-🕒 Time-based difficulty selection
-📊 Score tracking
-📜 Game history view
-🧠 Difficulty System
+---
 
-The game includes different difficulty levels based on time limits:
+## 🎮 Game Modes
 
-Easy → More time to answer
-Medium → Moderate time
-Hard → Less time to answer
-🛠️ Built With
-C#
-.NET Console Application
-🚀 How to Run
+* Addition (5 questions)
+* Subtraction (5 questions)
+* Multiplication (5 questions)
+* Division (5 questions)
+* Random Mode (5 mixed questions)
 
-Clone the repository:
+---
 
+## 🧠 Difficulty System
+
+* Easy → More time to answer
+* Medium → Moderate time
+* Hard → Less time to answer
+
+---
+
+## 📊 Features
+
+* Score tracking
+* Game history
+* Time-based challenges
+* Simple console interface
+
+---
+
+## 🛠️ Built With
+
+* C#
+* .NET Console Application
+
+---
+
+## 🚀 How to Run
+
+```
 git clone https://github.com/your-username/math-game.git
-Open the project in Visual Studio or VS Code
-
-Run the application:
-
+cd math-game
 dotnet run
-📂 Game Modes
-Mode	Description
-Addition	Solve 5 addition problems
-Subtraction	Solve 5 subtraction problems
-Multiplication	Solve 5 multiplication problems
-Division	Solve 5 division problems
-Random	5 mixed questions from all operations
-📄 License
+```
+
+---
+
+## 📄 License
 
 This project is open-source and available under the MIT License.
